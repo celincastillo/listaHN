@@ -1,0 +1,91 @@
+#EXTM3U
+
+#EXTINF:-1,HCH
+https://5d597bfcee285.streamlock.net/hch/hch/chunklist_w2083833614.m3u8
+
+#EXTINF:-1,CCI
+https://5d597bfcee285.streamlock.net/cci/cci/chunklist_w2060361374.m3u8
+
+#EXTINF:-1,TEN
+http://5a90011f1fc27.streamlock.net:443/TENHD/TENLive.smil/chunklist_w1775666008_b698000.m3u8
+
+#EXTINF:-1,TSI
+https://stream-02.nyc.dailymotion.com/sec(0HE75RGSqqnhnSdEMl12ZYOgunAbhV52_yRkQsxy9Q8)/dm/3/x7vqby4/s/live-2.m3u8
+
+#EXTINF:-1,CANAL5
+https://bcovlive-a.akamaihd.net/8520a5c6a0384300b735385e02e2f582/us-west-2/6056665196001/profile_0/chunklist.m3u8
+
+#EXTINF:-1,TELECADENA 7Y4
+https://bcovlive-a.akamaihd.net/825f39eaa17d4794a3898945026556e0/us-west-2/6056665196001/playlist.m3u8
+
+#EXTINF:-1,VTV
+https://hn-vtv-vtv-live.ned.media/vtv/smil:vtv.smil/playlist.m3u8
+
+#EXTINF:-1,MAYA TV
+https://5d00db0e0fcd5.streamlock.net/7202/7202/chunklist_w1126895649.m3u8
+
+#EXTINF:-1,CANAL 11
+http://181.189.225.36:9100/play/a00c/index.m3u8
+
+#EXTINF:-1,CAMPUS HD
+http://st2.worldkast.com/8004/8004/chunklist_w1315793139.m3u8
+
+
+#EXTINF:-1,CHOLUSAT SUR
+http://audiotvserver.net:1935/livemedia/cholusat/chunklist_w1981374450.m3u8
+
+
+#EXTINF:-1,CHTV
+http://181.189.225.36:9100/play/a00a/index.m3u8
+
+
+#EXTINF:-1,DTV
+http://181.189.225.36:9100/play/a007/index.m3u8
+
+
+#EXTINF:-1,TDTV+
+https://5f2c1b0d880e5.streamlock.net/tododeportesplus/videotododeportesplus/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS80LzIwMjAgMTI6Mzg6NDMgQU0maGFzaF92YWx1ZT05TU52RHU4ekdDbGliZUE0OWlGY05RPT0mdmFsaWRtaW51dGVzPTEwJmlkPQ==
+
+
+#EXTINF:-1,QhuboTV
+http://st2.worldkast.com/8030/8030/chunklist_w278915523.m3u8
+
+
+#EXTINF:-1,TELE PROGRESO
+http://181.189.225.36:9100/play/a00e/index.m3u8
+
+
+#EXTINF:-1,UNE TV
+http://181.189.225.36:9100/play/a00i/index.m3u8
+
+
+#EXTINF:-1,EBENEZER HD
+http://hds4.worldkast.com:1935/ebenezertv2/ebenezertv2/live.m3u8
+
+
+
+#EXTINF:-1,TELE CEIBA SD
+http://190.11.224.14:8134/liveevent.m3u8
+
+
+
+#EXTINF:-1,AZTECA HONDURAS
+http://aztecalive-lh.akamaihd.net/i/0dcqjxkgx_1@502208/master.m3u8
+
+
+#EXTINF:-1,MVC
+https://5b50404ec5e4c.streamlock.net/8056/smil:8056.smil/chunklist_w1910152875_b1250000.m3u8
+
+
+#EXTINF:-1,TSI 2
+https://trinity-lh.akamaihd.net/i/TelevicentroLive1_d@17977/master.m3u8
+
+
+#EXTINF:-1,GLOBO TV
+https://panel.dattalive.com/8122/8122/chunklist_w1459620217.m3u8
+
+
+#EXTINF:-1,SERCANO TV
+http://stream.grupoabchn.com:1935/SERCANOHD/SERCANOLive.smil/chunklist_w330137931_b1848000.m3u8
+
+
